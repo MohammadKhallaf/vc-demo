@@ -6,6 +6,8 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
   console.log("App component rendered");
+
+  console.log("App component rendered");
   return (
     <>
       <div>
